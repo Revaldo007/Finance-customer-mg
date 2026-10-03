@@ -94,6 +94,9 @@ export default function Dashboard() {
     <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
       {/* Header */}
       <div>
+        <p style={{ fontSize: '11px', fontWeight: 600, color: '#3763f4', textTransform: 'uppercase', letterSpacing: '0.08em', margin: '0 0 4px' }}>
+          Web-Based Finance and Customer Management System
+        </p>
         <h1 style={{ fontSize: '22px', fontWeight: 800, color: '#0f172a', margin: 0, letterSpacing: '-0.3px' }}>Dashboard</h1>
         <p style={{ fontSize: '13px', color: '#94a3b8', margin: '3px 0 0' }}>Overview of customers, finance accounts and repayments</p>
       </div>

@@ -159,6 +159,9 @@ export default function Repayments() {
         <div style={{ padding: '24px 16px 14px', flexShrink: 0 }}>
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px' }}>
             <div>
+              <p style={{ margin: '0 0 2px', fontSize: '9px', fontWeight: 700, color: '#3763f4', textTransform: 'uppercase', letterSpacing: '0.08em' }}>
+                Web-Based Finance and Customer Management System
+              </p>
               <h2 style={{ margin: 0, fontSize: '16px', fontWeight: 800, color: '#0f172a', letterSpacing: '-0.3px' }}>
                 💵 Repayments
               </h2>

@@ -123,6 +123,9 @@ export default function FinanceAccounts() {
       {/* ── Header ── */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
         <div>
+          <p style={{ fontSize: '11px', fontWeight: 600, color: '#3763f4', textTransform: 'uppercase', letterSpacing: '0.08em', margin: '0 0 4px' }}>
+            Web-Based Finance and Customer Management System
+          </p>
           <h1 style={{ fontSize: '22px', fontWeight: 700, color: '#0f172a', margin: 0, letterSpacing: '-0.3px' }}>
             Finance Accounts
           </h1>
