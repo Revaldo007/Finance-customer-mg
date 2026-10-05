@@ -6,8 +6,8 @@ import { Code2, UserCheck, GraduationCap } from 'lucide-react'
  * Place at: src/components/Badge.jsx
  */
 export default function Badge({
-  developer = 'Benina',
-  guide = 'XYZ',
+  developer = 'J.Benina',
+  guide = 'Dr.GP.Suja',
   college = 'Muslim Arts College',
   place = 'Thiruvithancode',
 }) {
